@@ -1,4 +1,3 @@
----
 
 # 🏦 Clustering Credit-Challenged Households in the U.S. Using SCF 2019 Data
 ## 🌐 Live Demo
