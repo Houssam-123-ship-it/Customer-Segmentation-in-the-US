@@ -1,6 +1,13 @@
 ---
 
 # 🏦 Clustering Credit-Challenged Households in the U.S. Using SCF 2019 Data
+## 🌐 Live Demo
+
+You can explore the interactive Dash dashboard here:
+
+👉 [**Launch Dashboard**](https://jupyter-2a8691a1-9000.us-east-32.prd.namespace.im/)  
+
+The dashboard allows you to explore clustered segments of financially distressed U.S. households, compare key financial features across groups, and understand PCA projections interactively.
 
 ---
 Data Science Project
