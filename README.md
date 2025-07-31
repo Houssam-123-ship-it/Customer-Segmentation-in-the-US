@@ -93,6 +93,13 @@ Certainly! Here’s the **How to Run** section only:
 
 ---
 
+
+> 📌 **Assignment Focus**
+> In the assignment version of this project, the **same unsupervised learning workflow** is applied—this time with a specific focus on **business owners in the United States**. You'll begin by examining key demographic characteristics such as **age**, **income category**, and the relationship between **debt and home value**. Then, you'll select features based on **high variance**, build a **k-means clustering model** to segment small business owners into meaningful subgroups, and create compelling **visualizations** to highlight the unique characteristics of each cluster.
+
+---
+
+
 # Acknowledgement
 This Dataset is created from [2019 Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) through [WorldQuant University](https://learn.wqu.edu/programs) Applied Data Science Lab  project assessment.
 
