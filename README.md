@@ -1,19 +1,17 @@
-# Customer-Segmentation-in-the-US[README (4).md]
-# 
+🏦 Clustering Credit-Challenged Households in the U.S. Using SCF 2019 Data
 Data Science Project
 
 # Table of Contents
 1. [Overview](#Overview)
 2. [About](#About)
-3. [Dataframe Structure](#Dataframe-Structure)
-4. [Data Dictionary](#Data-Dictionary)
-6. [Acknowledgement](#Acknowlegdement)
+3. [Data Dictionary](#Data-Dictionary)
+5. [Acknowledgement](#Acknowlegdement)
 
 
 # Overview
-In this [project](https://github.com/sehmilo/Customer-Segmentation-in-the-US/blob/main/fed_reserve.ipynb), I used data obtained from [2019 Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) data from the US Federal Reserve.
+In this [project](https://github.com/Houssam-123-ship-it/Customer-Segmentation-in-the-US/), I used data obtained from [2019 Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) data from the US Federal Reserve.
 
-This [project](https://github.com/sehmilo/Customer-Segmentation-in-the-US/blob/main/fed_reserve.ipynb) is an example of unsupervised learning, specifically **CLUSTERING**. It can be used in commercial contexts for marketing or customer segmentation or in sociological contexts to study social stratification.
+This [project](https://github.com/Houssam-123-ship-it/Customer-Segmentation-in-the-US/) is an example of unsupervised learning, specifically **CLUSTERING**. It can be used in commercial contexts for marketing or customer segmentation or in sociological contexts to study social stratification.
 
 Objectives include:
 - Compare characteristics across subgroups using a side-by-side bar chart.
@@ -43,8 +41,7 @@ The confidentiality of the information provided in the study is of the highest i
 Strenuous efforts are made to protect the privacy of participants, and in the history of the survey, there has never been a leak. 
 The names of the participants in the survey are known only to NORC, which has more than 50 years of successful experience in collecting confidential information.
 
-# Dataframe Structure
-![alt](df_STRUCTURE.png)
+
 
 # Data Dictionary
 |  Feature  | Description   |
@@ -66,7 +63,31 @@ The names of the participants in the survey are known only to NORC, which has mo
 | NHNFIN | total non-financial assets excluding principal residences, 2019 dollars |
 | NFIN | Total value of non-financial assets held by household, 2019 dollars |
 
-_The above do not represent the **entirety** of the features in the dataset but rather commonly used features for this particular project.For details on full glossary and documentation visit the Survey Documentation and Analysis [codebook](https://sda.berkeley.edu/sdaweb/docs/scfcomb2019/DOC/hcbk.htm) as processed and compiled by the [University of California, Berkeley](https://www.berkeley.edu/)_
+_The above do not represent the **entirety** of the features in the dataset but rather commonly used features for this particular project.For details on full glossary and documentation visit the Survey Documentation and Analysis [codebook](https://github.com/Houssam-123-ship-it/Customer-Segmentation-in-the-US/edit/main/066-data-dictionary.ipynb)_
+
+Certainly! Here’s the **How to Run** section only:
+
+---
+
+## ✅ How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone [https://github.com/sehmilo/Customer-Segmentation-in-the-US](https://github.com/Houssam-123-ship-it/Customer-Segmentation-in-the-US).git
+   cd Customer-Segmentation-in-the-US
+   ```
+
+2. Install the required dependencies (see on notebooks).
+
+3. Open and run the `fed_reserve.ipynb` notebook to explore data and clustering analysis.
+
+4. To launch the interactive dashboard, run this notebook:
+064-interactive-dash-app (2).ipynb
+
+5. Then folow the workflow till the end to lauch it .
+
+---
 
 # Acknowledgement
 This Dataset is created from [2019 Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) through [WorldQuant University](https://learn.wqu.edu/programs) Applied Data Science Lab  project assessment.
