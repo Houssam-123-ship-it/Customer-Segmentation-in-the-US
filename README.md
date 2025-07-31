@@ -1,4 +1,8 @@
-🏦 Clustering Credit-Challenged Households in the U.S. Using SCF 2019 Data
+---
+
+# 🏦 Clustering Credit-Challenged Households in the U.S. Using SCF 2019 Data
+
+---
 Data Science Project
 
 # Table of Contents
