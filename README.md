@@ -67,7 +67,7 @@ The names of the participants in the survey are known only to NORC, which has mo
 | NHNFIN | total non-financial assets excluding principal residences, 2019 dollars |
 | NFIN | Total value of non-financial assets held by household, 2019 dollars |
 
-_The above do not represent the **entirety** of the features in the dataset but rather commonly used features for this particular project.For details on full glossary and documentation visit the Survey Documentation and Analysis [066-data-dictionary.ipynb](https://github.com/Houssam-123-ship-it/Customer-Segmentation-in-the-US/edit/main/066-data-dictionary.ipynb)_
+_The above do not represent the **entirety** of the features in the dataset but rather commonly used features for this particular project.For details on full glossary and documentation visit the Survey Documentation and Analysis [Data Dictionary](https://sda.berkeley.edu/sdaweb/docs/scfcomb2019/DOC/hcbk0002.htm)
 
 Certainly! Here’s the **How to Run** section only:
 
